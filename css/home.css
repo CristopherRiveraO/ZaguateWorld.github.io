@@ -160,3 +160,12 @@
   #noticia{
     margin-bottom: 10px;
   }
+
+  .adicional h3{
+    color:blue;
+    font-style: italic;
+  }
+
+  .adicional p{
+    color: black;
+  }
