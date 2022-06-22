@@ -139,12 +139,12 @@
     color: #E5017D;
   }
   
-  #nt-1{
+  #firstnew{
     background-color: #59e2e254;
   }
   
-  #nt-2{
-    background-color: #ece91d5d;
+  #secondnew{
+    background: lightgreen;
   }
   
   .table{
