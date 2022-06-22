@@ -147,29 +147,6 @@
     background: lightgreen;
   }
   
-  .table{
-    overflow: scroll;
-  }
-  
-  thead{
-    color:white;
-    background-color: #E5017D;
-    text-align: center;
-    padding: 5px;
-  }
-  
-  td{
-    text-align: left;
-    padding: 5px;
-  }
-  tr:nth-child(even) {
-    background-color: #D6EEEE;
-  }
-  tfoot{
-    color:white;
-    background-color: #E5017D;
-    padding: 5px;
-  }
 
   .navbar{
     background-color: #53C7FD;
@@ -178,5 +155,9 @@
   h4{
     color: #89c43d;
     font-style: oblique;
+  }
+
+  #noticia{
+    margin-bottom: 10px;
   }
  
