@@ -173,3 +173,18 @@
   #gallerymain-header h1{
     font-size: 30px;
   }
+
+  thead{
+    color: #FFF;
+    background-color: #E5017D;
+    text-align: center;
+  }
+
+  td{
+    text-align: left;
+    padding: 5px;
+  }
+
+  table{
+    overflow: scroll;
+  }
