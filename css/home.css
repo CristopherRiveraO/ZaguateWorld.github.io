@@ -30,4 +30,148 @@
     line-height: 20px;
     font: normal .8em arial, sans-serif;
   }
+
+  aside{
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #F5FEFF;
+    border-radius: 20px;
+    border: #C9E5E9 solid 1px;
+    line-height: 20px;
+  }
+
+  #principal-content{
+    margin-bottom: 17px;
+  }
+
+  #main{
+    margin-top: 15px;
   
+  }
+
+  aside ul{
+    margin-left: -30px;
+    list-style-type:none;
+  }
+
+  article h1{
+    color: #E5017D;
+  }
+
+  article p{
+      line-height: 20px;
+  }
+
+  ol {
+    list-style-type:decimal;
+    line-height: 20px;
+    margin-left: -20px;
+  }
+
+  footer{
+    width: 100%;
+    background-color: #53C7FD;
+    text-align: center;
+    color: #FFF;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    padding-bottom: 30px;
+    padding-top: 25px;
+    height: auto;
+  }
+
+  #container-footer .links{
+    padding: 10px 5px 0px 5px;
+    color: white;
+    border-right: 1px solid white;
+    text-decoration: none;
+    text-align: center;
+    padding: 0px 5px 0px 5px;
+  }
+
+  #container-footer .last{
+    border-right: none;
+  }
+
+  footer p{
+    padding-top: 10px;
+  }
+  
+  aside h3{
+    font-size: 18px;
+    font-family: Yanone Kaffeesatz;
+    color: #89c43d;
+    font-weight: bold;
+  }
+  
+  .navbar a{
+    color: #FFF;
+  }
+
+  .navbar a:hover{
+    color:#E5017D;
+  }
+  
+  .navbar .dropdown-menu{
+    color:#E5017D;
+  }
+  
+  
+  .navbar-toggler-icon{
+    border: #E5017D solid 1px;
+    border-radius: 10px;
+  }
+  
+  .navbar .dropdown-menu{
+    line-height: 30px;
+    font-family: Yanone Kaffeesatz;
+    font-size: 20px;
+    background-color:#53C7FD ;
+  }
+  
+  .adicional h3{
+    font-size: 18px;
+    color: #89c43d;
+  }
+  
+  .adicional h1{
+    font-size: 30px;
+    color: #E5017D;
+  }
+  
+  #nt-1{
+    background-color: #59e2e254;
+  }
+  
+  #nt-2{
+    background-color: #ece91d5d;
+  }
+  
+  .table{
+    overflow: scroll;
+  }
+  
+  thead{
+    color:white;
+    background-color: #E5017D;
+    text-align: center;
+    padding: 5px;
+  }
+  
+  td{
+    text-align: left;
+    padding: 5px;
+  }
+  tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }
+  tfoot{
+    color:white;
+    background-color: #E5017D;
+    padding: 5px;
+  }
+
+  .navbar{
+    background-color: #53C7FD;
+  }
+ 
