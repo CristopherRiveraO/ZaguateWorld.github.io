@@ -188,3 +188,7 @@
   table{
     overflow: scroll;
   }
+
+  #disponible{
+    background-color:#53C7FD ;
+  }
